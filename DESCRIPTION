@@ -1,6 +1,6 @@
 Package: rMSIstats
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Toolbox for Downstream MS-Imaging Data Analysis
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
@@ -10,6 +10,8 @@ Imports:
   HDF5Array,
   S4Vectors,
   ggplot2,
+  MsCoreUtils,
+  SummarizedExperiment,
   fields
 License: GPL (>= 3)
 Encoding: UTF-8
